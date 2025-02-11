@@ -1,0 +1,48 @@
+# Build Folders (you can keep bin if you'd like)
+bin/
+obj/
+out/
+
+# Rider project files
+.idea/
+
+# VS Code settings
+.vscode/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+logs/
+
+# NuGet Packages
+*.nupkg
+packages/
+project.lock.json
+project.assets.json
+
+# Visual Studio cache files
+.vs/
+
+# ASP.NET temp files
+wwwroot/node_modules/
+node_modules/
+dist/
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Entity Framework Migrations
+Migrations/
+
+# dotnet core files
+.DS_Store
+Thumbs.db
+
+# JetBrains Rider
+.idea/
